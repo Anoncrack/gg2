@@ -1,0 +1,14 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/favicon.ico/route": "/favicon.ico",
+  "/inventory/page": "/inventory",
+  "/legal/privacy/page": "/legal/privacy",
+  "/legal/terms/page": "/legal/terms",
+  "/lucky-event/page": "/lucky-event",
+  "/page": "/",
+  "/patch/[slug]/page": "/patch/[slug]",
+  "/robots.txt/route": "/robots.txt",
+  "/servers/page": "/servers",
+  "/sitemap.xml/route": "/sitemap.xml"
+}

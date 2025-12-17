@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://sendinglight.net</loc>
+<lastmod>2025-12-17T21:21:22.534Z</lastmod>
+<changefreq>daily</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>https://sendinglight.net/servers</loc>
+<lastmod>2025-12-17T21:21:22.534Z</lastmod>
+<changefreq>always</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://sendinglight.net/inventory</loc>
+<lastmod>2025-12-17T21:21:22.534Z</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://sendinglight.net/legal/terms</loc>
+<lastmod>2025-12-17T21:21:22.534Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.3</priority>
+</url>
+<url>
+<loc>https://sendinglight.net/legal/privacy</loc>
+<lastmod>2025-12-17T21:21:22.534Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.3</priority>
+</url>
+</urlset>
